@@ -135,7 +135,7 @@ header li:hover a{
 /* start home*/
 
 .home {
-background-image: url(./fold/landing.jpg);
+  background-image: url(/landing.jpg);
 height: 100vh;
 position: relative;
 background-size :cover;

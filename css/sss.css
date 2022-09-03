@@ -135,8 +135,9 @@ header li:hover a{
 /* start home*/
 
 .home {
-  background-image: url(/landing.jpg);
-  background-image: url(/لقطة\ الشاشة\ 2022-09-03\ 142116.png);
+  background-image: url(../landing.jpg);
+  background-image: url(../لقطة\ الشاشة\ 2022-09-03\ 142116.png);
+
 height: 100vh;
 position: relative;
 background-size :cover;
